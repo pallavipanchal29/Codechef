@@ -1,4 +1,4 @@
-package beginner;
+package beginner.bbasicprogrammingconcepts;
 
 import javax.swing.text.NumberFormatter;
 import java.io.IOException;
