@@ -18,6 +18,7 @@ public class SlowSolution {
                 maxT--;
             }
             System.out.println(max);
+            t--;
         }
     }
 }
